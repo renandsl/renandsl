@@ -39,8 +39,15 @@
       <sub><b><pre style="font-size: 14px">&ensp;MySQL&ensp;</pre></b></sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Dark.svg" height="60px" width="60px"/><br>
-      <sub><b><pre style="font-size: 14px">&ensp;Java&ensp;</pre></b></sub>
+      <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" height="60px" width="60px"/><br>
+      <sub><b><pre style="font-size: 14px">&ensp;PowerBI&ensp;</pre></b></sub>
+      <td align="center">
+      <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true?raw=true" height="60px" width="60px"/><br>
+      <sub><b><pre style="font-size: 14px">&ensp;Excel&ensp;</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" height="60px" width="60px"/><br>
+      <sub><b><pre style="font-size: 14px">&ensp;PostgreSQL&ensp;</pre></b></sub>
     </td>
   </tr>
 </table>
