@@ -1,5 +1,5 @@
 <a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gray&height=90&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=lightgray&height=90&section=header"/>
 </a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=2000&size=35&pause=1000&color=808080&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Renan;I'm+a+Data+Analyst;Be+welcome!)](https://git.io/typing-svg)
@@ -41,7 +41,8 @@
     <td align="center">
       <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" height="50px" width="50px"/><br>
       <sub><b><pre style="font-size: 14px">&ensp;PowerBI&ensp;</pre></b></sub>
-      <td align="center">
+    </td>
+    <td align="center">
       <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true?raw=true" height="50px" width="50px"/><br>
       <sub><b><pre style="font-size: 14px">&ensp;Excel&ensp;</pre></b></sub>
     </td>
@@ -68,5 +69,5 @@
 <img align="left" height="140px" width="120px" alt="quote" src="./images/coding.gif"/>
 
 <a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gray&height=90&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=lightgray&height=90&section=footer"/>
 </a>
