@@ -35,10 +35,6 @@
       <sub><b><pre style="font-size: 14px">Selenium</pre></b></sub>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/126187123/235800431-f009b7bf-d41b-45bd-85a9-d025a4bc4b31.png" height="50px" width="50px"/><br>
-      <sub><b><pre style="font-size: 14px">&ensp;MySQL&ensp;</pre></b></sub>
-    </td>
-    <td align="center">
       <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" height="50px" width="50px"/><br>
       <sub><b><pre style="font-size: 14px">&ensp;PowerBI&ensp;</pre></b></sub>
     </td>
